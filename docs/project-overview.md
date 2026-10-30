@@ -2,21 +2,23 @@
 
 ## Project name
 
-Model Dam 2026
+Model hydroelectric-dam 2026
 
 ## Purpose
 
-This project documents the design, engineering analysis, and construction of a model dam intended to study and demonstrate water control, storage, and flow behaviour in a controlled setup.
+This project documents the design, engineering analysis, and construction of a model dam intended to study and demonstrate water control, storage, and flow behavior in a controlled setup.
 
 ## Design intent
 
 The model dam is intended to support the investigation of:
 
-- water storage and reservoir behaviour
-- controlled discharge and spillway response
-- hydraulic head and flow characteristics
-- seepage, stability, and geometric constraints
-- system control and monitoring
+- Fluid mechanics (primarily non-hydrostatic water)
+- How the structure of a dam effects its durability (In the real world and of my model)
+- Different materials used in real hydroelectric dams
+- How different nail sizes and coil rotations effect electrical output
+- Designs of real-world commercial scale turbines within the dams
+- how real world energy output varies from theoretical/calculated output
+- 
 
 ## Scope
 
