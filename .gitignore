@@ -1,0 +1,23 @@
+# .gitignore
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CAD and large binary exports
+*.bak
+*.tmp
+*.~
+
+# Local logs
+*.log
+
+# Optional: ignore generated output if you prefer to keep it outside the repo
+# build/
+# dist/
