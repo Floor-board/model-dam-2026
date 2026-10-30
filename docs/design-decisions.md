@@ -77,3 +77,11 @@ Examples:
 ---
 
 Document the reasoning behind each major decision so future revisions remain understandable.
+
+
+# What we know:
+
+My model won't have the size for a 'big drop' like the one they utilize to turn gravitational potential energy into work. So
+I dont have the pressure needed for a high pressure turbine design (Unless I crank up the water pressure from my hose but I want to make one that can work on a very small water stream) so I will need a low pressure design thats moving a light turbine. Perhaps something similar to a Francis turbine or similar to the vortex turbine by Turbulent.
+
+citations: https://www.sciencedirect.com/science/article/pii/S2590174525000273
